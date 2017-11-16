@@ -4,6 +4,13 @@ b{
 p{
   font-size:120%;
 }
+body{
+  font-family: 'Spectral SC', serif;
+}
 .my-title{
 font-size:400%;
+}
+
+h1{
+  font-family: 'Spectral SC', serif;
 }
